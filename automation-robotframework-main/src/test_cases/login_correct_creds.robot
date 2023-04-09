@@ -18,5 +18,5 @@ Verify Successful Login to Facebook Lite
     Input Text    ${PASSWORD_FIELD}    ${PASSWORD}
     Click Login Button
     Save Login Info Page Visible
-    Sleep    5
+    Sleep    7
     Attempt Not Save Login Creds
